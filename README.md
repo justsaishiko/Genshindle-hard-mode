@@ -5,5 +5,6 @@ Basic 3 modes:
 Genshin:
   + constellation
   + talents
+
 Pjo
 Mha
