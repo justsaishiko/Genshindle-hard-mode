@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.quicksand-font {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+body{
+    height: 100vh;
+    width:100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.navbar{
+    background-color: #171f1e;
+    height: 100vh;
+    width: 10vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.main{
+    background-image: url("./Images/treesbg.png");
+    background-color: #2c3420;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 90vw;
+    height: 100vh;
+}
+.genshin-route, .mha-route, .pjo-route{
+    border: 2px solid #1b3007;
+    border-radius: 45px;
+    width: 23vw;
+    height: 70vh;
+    margin: 20px;
+    background-color: #5b816eb3;
+    outline: 3px solid #375e10;
+    opacity: 0.5;
+    font-family: "Quicksand", sans-serif;
+    overflow:hidden;
+}
+
+
+.genshin-route{
+    background-image: url("./Images/Genshin/genshin-main.png" );
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.genshin-route:hover{
+    opacity: 1;
+}
+
+.genshin-route:hover > .slide-up{
+    opacity: 0.8;
+}
+
+.mha-route{
+    background-image: url("./Images/Mha/mha-main.png" );
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.mha-route:hover{
+    opacity: 1;
+}
+
+.mha-route:hover > .slide-up{
+    opacity: 0.8;
+
+}
+
+.pjo-route{
+    background-image: url("./Images/Pjo/pjo-main.png" );
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.pjo-route:hover{
+    opacity: 1;
+}
+
+.pjo-route:hover > .slide-up{
+    opacity: 0.8;
+}
+
+.slide-up{
+    padding: 20px;
+    top: 50%;
+    position: relative;
+    height: 100%;
+    background-color: rgb(23, 31, 30);
+    opacity: 0;
+}
+
+hr{
+    color: white 0.7;
+    margin: 3px;
+}
+
+h1{
+    font-size: 24px;
+    color: white;
+}
+
+p{
+    color: white;
+    font-size: 15px;
+}
