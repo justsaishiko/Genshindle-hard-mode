@@ -1,0 +1,865 @@
+{
+    "genshinCharacters" : [
+        {
+            "id" : 1,
+            "name" : "Lisa Minci",
+            "image": "lisa.png",
+            "splashArt": "lisa-wish.png",
+            "properties": {
+                "element": "electro",
+                "rarity": "4⭐",
+                "weapon": "catalyst",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "elemental mastery",
+                "talentBook": "ballad",
+                "boss": "lightning prism",
+                "specialty": "valberry",
+                "weeklyBoss": "dvalin",
+                "mob": "slime"
+            },
+
+            "cons": {
+                "conName": "Tempus Fugit",
+                "c1": "Infinite Circuit",
+                "c2": "Electromagnetic Field",
+                "c3": "Resonant Thunder",
+                "c4": "Plasma Eruption",
+                "c5": "Electrocute",
+                "c6": "Pulsating Witch"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Lightning Touch",
+                "eSkill": "Violet Arc",
+                "burst": "Lightning Rose",
+                "firstAsc": "Induced Aftershock",
+                "secondAsc": "Static Electricity Field",
+                "passive": "General Pharmaceutics",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 2,
+            "name" : "Razor",
+            "image": "razor.png",
+            "splashArt": "razor-wish.png",
+            "properties": {
+                "element": "electro",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "physical damage bonus",
+                "talentBook": "resistance",
+                "boss": "lightning prism",
+                "specialty": "wolfhook",
+                "weeklyBoss": "dvalin",
+                "mob": "hilichurl"
+            },
+
+            "cons": {
+                "conName": "Lupus Minor",
+                "c1": "Wolf's Instinct",
+                "c2": "Suppression",
+                "c3": "Soul Companion",
+                "c4": "Bite",
+                "c5": "Sharpened Claws",
+                "c6": "Lupus Fulguris"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Steel Fang",
+                "eSkill": "Claw and Thunder",
+                "burst": "Lightning Fang",
+                "firstAsc": "Awakening",
+                "secondAsc": "Hunger",
+                "passive": "Wolvensprint",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 3,
+            "name" : "Bennett",
+            "image": "bennett.png",
+            "splashArt": "bennett-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "sword",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "energy recharge",
+                "talentBook": "resistance",
+                "boss": "everflame seed",
+                "specialty": "windwheel aster",
+                "weeklyBoss": "dvalin",
+                "mob": "treasure hoarders"
+            },
+
+            "cons": {
+                "conName": "Rota Calamitas",
+                "c1": "Grand Expectation",
+                "c2": "Impasse Conqueror",
+                "c3": "Unstoppable Fervor",
+                "c4": "Unexpected Odyssey",
+                "c5": "True Explorer",
+                "c6": "Fire Ventures With Me"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Strike of Fortune",
+                "eSkill": "Passion Overload",
+                "burst": "Fantastic Voyage",
+                "firstAsc": "Rekindle",
+                "secondAsc": "Fearnaught",
+                "passive": "It Should Be Safe",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 4,
+            "name" : "Diluc Ragnvindr",
+            "image": "diluc.png",
+            "splashArt": "diluc-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "claymore",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "crit rate",
+                "talentBook": "resistance",
+                "boss": "everflame seed",
+                "specialty": "small lamp grass",
+                "weeklyBoss": "dvalin",
+                "mob": "fatui"
+            },
+
+            "cons": {
+                "conName": "Noctua",
+                "c1": "Conviction",
+                "c2": "Searing Ember",
+                "c3": "Fire and Steel",
+                "c4": "Flowing Flame",
+                "c5": "Phoenix, Harbringer of Dawn",
+                "c6": "Flaming Sword, Nemesis of the Dark"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Tempered Sword",
+                "eSkill": "Searing Onslaught",
+                "burst": "Dawn",
+                "firstAsc": "Relentless",
+                "secondAsc": "Blessing of Phoenix",
+                "passive": "Tradition of the Dawn Knight",
+                "extra": null
+            }
+
+        },
+
+        {
+            "id" : 5,
+            "name" : "Kaeya Alberich",
+            "image": "kaeya.png",
+            "splashArt": "kaeya-wish.png",
+            "properties": {
+                "element": "cryo",
+                "rarity": "4⭐",
+                "weapon": "sword",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "energy recharge",
+                "talentBook": "ballad",
+                "boss": "hoarfrost core",
+                "specialty": "calla lily",
+                "weeklyBoss": "andrius",
+                "mob": "treasure hoarders"
+            },
+
+            "cons": {
+                "conName": "Pavo Ocellus",
+                "c1": "Excellent Blood",
+                "c2": "Never Ending Performance",
+                "c3": "Dance of Frost",
+                "c4": "Frozen Kiss",
+                "c5": "Frostbiting Embrace",
+                "c6": "Glacial Whirlwind"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Ceremonial Bladework",
+                "eSkill": "Frostgnaw",
+                "burst": "Glacial Waltz",
+                "firstAsc": "Cold-Blooded Strike",
+                "secondAsc": "Glacial Heart",
+                "passive": "Hidden Strenght",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 6,
+            "name" : "Mona Megistus",
+            "image": "mona.png",
+            "splashArt": "mona-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "energy recharge",
+                "talentBook": "resistance",
+                "boss": "cleansing heart",
+                "specialty": "philanemo mushroom",
+                "weeklyBoss": "andrius",
+                "mob": "whopperflower"
+            },
+
+            "cons": {
+                "conName": "Astrolabos",
+                "c1": "Prophecy of Submersion",
+                "c2": "Lunar Chain",
+                "c3": "Restless Revolution",
+                "c4": "Prophecy of Oblivion",
+                "c5": "Mockery of Fortuna",
+                "c6": "Rhetorics of Calamitas"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Ripple of Fate",
+                "eSkill": "Mirror Reflection of Doom",
+                "burst": "Stellaris Phantasm",
+                "firstAsc": "Come 'n' Get Me Hag!",
+                "secondAsc": "Waterborne Destiny",
+                "passive": "Principium of Astrology",
+                "extra": "Illusory Torrent"
+            }
+
+
+        },
+
+        {
+            "id" : 7,
+            "name" : "Fischl",
+            "image": "fischl.png",
+            "splashArt": "fischl-wish.png",
+            "properties": {
+                "element": "electro",
+                "rarity": "4⭐",
+                "weapon": "bow",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "atk",
+                "talentBook": "ballad",
+                "boss": "lightning prism",
+                "specialty": "small lamp grass",
+                "weeklyBoss": "andrius",
+                "mob": "hilichurl shooter"
+            },
+
+            "cons": {
+                "conName": "Corvus",
+                "c1": "Gaze of the Deep",
+                "c2": "Devourer of All Sins",
+                "c3": "Wings of Nightmare",
+                "c4": "Her Pilgrimage of Bleak",
+                "c5": "Against the Fleeting Light",
+                "c6": "Evernight Raven"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Bolts of Downfall",
+                "eSkill": "Nightrider",
+                "burst": "Midnight Phantasmagoria",
+                "firstAsc": "Stellar Predator",
+                "secondAsc": "Undone Be Thy Sinful Hex",
+                "passive": "Mein Hausgarten",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 8,
+            "name" : "Jean Gunnhildr",
+            "image": "jean.png",
+            "splashArt": "jean-wish.png",
+            "properties": {
+                "element": "anemo",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "healing bonus",
+                "talentBook": "resistance",
+                "boss": "hurricane seed",
+                "specialty": "dandelion seed",
+                "weeklyBoss": "dvalin",
+                "mob": "hilichurl"
+            },
+
+            "cons": {
+                "conName": "Leo Minor",
+                "c1": "Spiraling Tempest",
+                "c2": "People's Aegis",
+                "c3": "When the West Wind Arises",
+                "c4": "Lands of Dandelion",
+                "c5": "Outbursting Gust",
+                "c6": "Lion's Fang, Fair Protector of Mondstadt"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Favonius Bladework",
+                "eSkill": "Gale Blade",
+                "burst": "Dandelion Breeze",
+                "firstAsc": "Wind Companion",
+                "secondAsc": "Let the Wind Lead",
+                "passive": "Guiding Breeze",
+                "extra": null
+            }
+        },
+        
+        {
+            "id" : 9,
+            "name" : "Barbara Pegg",
+            "image": "barbara.png",
+            "splashArt": "barbara-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "4⭐",
+                "weapon": "catalyst",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "hp",
+                "talentBook": "freedom",
+                "boss": "cleansing heart",
+                "specialty": "philanemo mushroom",
+                "weeklyBoss": "andrius",
+                "mob": "samachurl"
+            },
+
+            "cons": {
+                "conName": "Crater",
+                "c1": "Gleeful Songs",
+                "c2": "Vitality Burst",
+                "c3": "Star of Tomorrow",
+                "c4": "Attentiveness Be My Power",
+                "c5": "The Purest Companionship",
+                "c6": "Dedicating Everything to You"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Whisper of Water",
+                "eSkill": "Let The Show Begin",
+                "burst": "Shining Miracle",
+                "firstAsc": "Glorious Season",
+                "secondAsc": "Encore",
+                "passive": "With My Whole Heart",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 10,
+            "name" : "Noelle",
+            "image": "noelle.png",
+            "splashArt": "noelle-wish.png",
+            "properties": {
+                "element": "geo",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "def",
+                "talentBook": "resistance",
+                "boss": "basalt pillar",
+                "specialty": "valberry",
+                "weeklyBoss": "dvalin",
+                "mob": "hilichurl"
+            },
+
+            "cons": {
+                "conName": "Parma Cordis",
+                "c1": "I Got Your Back",
+                "c2": "Combat Maid",
+                "c3": "Invulnerable Maid",
+                "c4": "To Be Cleaned",
+                "c5": "Favonius Sweeper Master",
+                "c6": "Must Be Spotless"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Favonius Bladework - Maid",
+                "eSkill": "Breastplate",
+                "burst": "Sweeping Time",
+                "firstAsc": "Devotion",
+                "secondAsc": "Nice And Clean",
+                "passive": "Maid's Knighthood",
+                "extra": null
+            }
+
+
+        },
+        
+        {
+            "id" : 11,
+            "name" : "Amber",
+            "image": "amber.png",
+            "splashArt": "amber-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "bow",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "atk",
+                "talentBook": "freedom",
+                "boss": "everflame seed",
+                "specialty": "small lamp grass",
+                "weeklyBoss": "dvalin",
+                "mob": "hilichurl shooter"
+            },
+
+            "cons": {
+                "conName": "Lepus",
+                "c1": "One Arrow To Rule Them All",
+                "c2": "Bunny Triggered",
+                "c3": "It Burns!",
+                "c4": "It's Not Just Any Doll...",
+                "c5": "It's Baron Bunny!",
+                "c6": "Wildfire"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Sharphooter",
+                "eSkill": "Explosive Puppet",
+                "burst": "Fiery Rain",
+                "firstAsc": "Every Arrow Finds It's Target",
+                "secondAsc": "Precise Shot",
+                "passive": "Gliding Champion",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 12,
+            "name" : "Klee",
+            "image": "klee.png",
+            "splashArt": "klee-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "pyro damage bonus",
+                "talentBook": "freedom",
+                "boss": "everflame seed",
+                "specialty": "philanemo mushroom",
+                "weeklyBoss": "andrius",
+                "mob": "samachurl"
+            },
+
+            "cons": {
+                "conName": "Trifolium",
+                "c1": "Chained Reactions",
+                "c2": "Explosive Frags",
+                "c3": "Exsquisite Compund",
+                "c4": "Sparkly Explosion",
+                "c5": "Nova Burst",
+                "c6": "Blazing Delight"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Kaboom!",
+                "eSkill": "Jumpy Dumpty",
+                "burst": "Sparks 'n' Splash",
+                "firstAsc": "Pounding Surprise",
+                "secondAsc": "Sparkling Burst",
+                "passive": "All Of My Treasures!",
+                "extra": null
+            }
+
+        },
+
+        {
+            "id" : 13,
+            "name" : "Venti",
+            "image": "venti.png",
+            "splashArt": "venti-wish.png",
+            "properties": {
+                "element": "anemo",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "mondstadt",
+                "version": "1.0",
+                "stat": "energy recharge",
+                "talentBook": "ballad",
+                "boss": "hurricane seed",
+                "specialty": "cecilia",
+                "weeklyBoss": "andrius",
+                "mob": "slime"
+            },
+
+            "cons": {
+                "conName": "Carmen Dei",
+                "c1": "Splitting Gales",
+                "c2": "Breeze of Reminiscience",
+                "c3": "Ode to Thousand Winds",
+                "c4": "Hurricane of Freedom",
+                "c5": "Concerto dal Cielo",
+                "c6": "Storm of Defiance"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Divine Marksmanship",
+                "eSkill": "Skyward Sonnet",
+                "burst": "Wind's Grand Ode",
+                "firstAsc": "Embrace of Winds",
+                "secondAsc": "Stromeye",
+                "passive": "Windrider",
+                "extra": null
+            }
+
+
+        },
+
+        {
+            "id" : 14,
+            "name" : "Ningguang",
+            "image": "ningguang.png",
+            "splashArt": "ningguang-wish.png",
+            "properties": {
+                "element": "geo",
+                "rarity": "4⭐",
+                "weapon": "catalyst",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "geo damage bonus",
+                "talentBook": "prosperity",
+                "boss": "basalt pillar",
+                "specialty": "glaze lily",
+                "weeklyBoss": "andrius",
+                "mob": "fatui"
+            },
+
+            "cons": {
+                "conName": "Opus Aequilibrium",
+                "c1": "Piercing Fragments",
+                "c2": "Shock Effect",
+                "c3": "Majesty Be The Array Of Stars",
+                "c4": "Exsquitsite be the Jade, Outshining All Beneath",
+                "c5": "Invincible Be The Jade Screen",
+                "c6": "Grandeur Be The Seven Stars"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Sparkling Scatter",
+                "eSkill": "Jade Screen",
+                "burst": "Starshatter",
+                "firstAsc": "Backup Plan",
+                "secondAsc": "Strategic Reserve",
+                "passive": "Trove of Marvelous Treasures",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 15,
+            "name" : "Qiqi",
+            "image": "qiqi.png",
+            "splashArt": "qiqi-wish.png",
+            "properties": {
+                "element": "cryo",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "healing bonus",
+                "talentBook": "prosperity",
+                "boss": "hoarfrost core",
+                "specialty": "violetgrass",
+                "weeklyBoss": "andrius",
+                "mob": "samachurl"
+            },
+
+            "cons": {
+                "conName": "Pristina Nola",
+                "c1": "Ascetics of Frost",
+                "c2": "Frozen to the Bone",
+                "c3": "Ascendant Praise",
+                "c4": "Divine Suppresion",
+                "c5": "Crimson Lotus Bloom",
+                "c6": "Rite of Resurrection"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Ancient Sword Art",
+                "eSkill": "Adeptus Art: Heralf of Frost",
+                "burst": "Adeptus Art: Preserver of Fortune",
+                "firstAsc": "Life-Prolonging Methods",
+                "secondAsc": "A Glipmse Into Arcanum",
+                "passive": "Former Life Memories",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 16,
+            "name" : "Xingqiu",
+            "image": "xingqiu.png",
+            "splashArt": "xingqiu-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "4⭐",
+                "weapon": "sword",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "atk",
+                "talentBook": "gold",
+                "boss": "cleansing heart",
+                "specialty": "silk flower",
+                "weeklyBoss": "andrius",
+                "mob": "hilichurl"
+            },
+
+            "cons": {
+                "conName": "Fabulae Textile",
+                "c1": "The Scent Remained",
+                "c2": "Rainbow Upon The Azure Sky",
+                "c3": "Weaver of Verses",
+                "c4": "Evilsoother",
+                "c5": "Embrace of Rain",
+                "c6": "Hence, Call Them My Own Verses"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Guhua Style",
+                "eSkill": "Guhua Sword: Fatal Rainscreen",
+                "burst": "Guhua Sword: Raincutter",
+                "firstAsc": "Hydropathic",
+                "secondAsc": "Blades Amidst Raindrops",
+                "passive": "Flash of Genius",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 17,
+            "name" : "Keqing",
+            "image": "keqing.png",
+            "splashArt": "keqing-wish.png",
+            "properties": {
+                "element": "electro",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "crit damage",
+                "talentBook": "prosperity",
+                "boss": "lightning prism",
+                "specialty": "cor lapis",
+                "weeklyBoss": "andrius",
+                "mob": "whopperflower"
+            },
+
+            "cons": {
+                "conName": "Trulla Cementarii",
+                "c1": "Thundering Might",
+                "c2": "Keen Extraction",
+                "c3": "Foreseen Information",
+                "c4": "Attunement",
+                "c5": "Beckoning Stars",
+                "c6": "Tenacious Star"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Yunlai Swordsmanship",
+                "eSkill": "Stellar Restoration",
+                "burst": "Starward Sword",
+                "firstAsc": "Thundering Penance",
+                "secondAsc": "Aristocratic Dignity",
+                "passive": "Land's Overseer",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 18,
+            "name" : "Chongyun",
+            "image": "chongyun.png",
+            "splashArt": "chongyun-wish.png",
+            "properties": {
+                "element": "cryo",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "atk",
+                "talentBook": "dilligence",
+                "boss": "hoarfrost core",
+                "specialty": "cor lapis",
+                "weeklyBoss": "dvalin",
+                "mob": "hilichurl"
+            },
+
+            "cons": {
+                "conName": "Nubis Caesor",
+                "c1": "Ice Unleashed",
+                "c2": "Atmospheric Revolution",
+                "c3": "Cloudburst",
+                "c4": "Frozen Skies",
+                "c5": "The True Path",
+                "c6": "Rally of Four Blades"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Demonbane",
+                "eSkill": "Spirit Blade: Chonghua's Layered Frost",
+                "burst": "Spirit Blade: Cloud-Parting Star",
+                "firstAsc": "Steady Breathing",
+                "secondAsc": "Rimechaser Blade",
+                "passive": "Gallant Journey",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 19,
+            "name" : "Xiangling",
+            "image": "xiangling.png",
+            "splashArt": "xiangling-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "polearm",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "elemental mastery",
+                "talentBook": "dilligence",
+                "boss": "everflame seed",
+                "specialty": "jueyun chili",
+                "weeklyBoss": "dvalin",
+                "mob": "slime"
+            },
+
+            "cons": {
+                "conName": "Trulla",
+                "c1": "Crispy Outside, Tender Inside",
+                "c2": "Oil Meets Fire",
+                "c3": "Deepfry",
+                "c4": "Slowbake",
+                "c5": "Guoba Mad",
+                "c6": "Condensed Pyronado"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Dough-Fu",
+                "eSkill": "Guoba Attack",
+                "burst": "Pyronado",
+                "firstAsc": "Crossfire",
+                "secondAsc": "Beware, It's Super Hot!",
+                "passive": "Chef de Cuisine",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 20,
+            "name" : "Beidou",
+            "image": "beidou.png",
+            "splashArt": "beidou-wish.png",
+            "properties": {
+                "element": "electro",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "liyue",
+                "version": "1.0",
+                "stat": "electro damage bonus",
+                "talentBook": "gold",
+                "boss": "lightning prism",
+                "specialty": "noctilucous jade",
+                "weeklyBoss": "dvalin",
+                "mob": "treasure hoarders"
+            },
+
+            "cons": {
+                "conName": "Victor Mare",
+                "c1": "Sea Beast's Scourge",
+                "c2": "Upon the Turbulent Sea, the Thunder Arises",
+                "c3": "Summoner of Storm",
+                "c4": "Stunning Revenge",
+                "c5": "Crimson Tidewalker",
+                "c6": "Bane of Evil"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Oceanborn",
+                "eSkill": "Tidecaller",
+                "burst": "Stormbreaker",
+                "firstAsc": "Retribution",
+                "secondAsc": "Lightning Storm",
+                "passive": "Conqueror of Tides",
+                "extra": null
+            }
+        },
+    ]
+}
