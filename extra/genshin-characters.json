@@ -819,7 +819,7 @@
                 "extra": null
             }
         },
-
+        
         {
             "id" : 20,
             "name" : "Beidou",
@@ -861,5 +861,593 @@
                 "extra": null
             }
         },
+
+        {
+            "id" : 21,
+            "name" : "Sangonomiya Kokomi",
+            "image": "kokomi.png",
+            "splashArt": "kokomi-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "inazuma",
+                "version": "2.1",
+                "stat": "hydro damage bonus",
+                "talentBook": "transcience",
+                "boss": "dew of repudiation",
+                "specialty": "sango pearl",
+                "weeklyBoss": "signora",
+                "mob": "specter"
+            },
+
+            "cons": {
+                "conName": "Dracaena Somnolenta",
+                "c1": "At Water's Edge",
+                "c2": "The Clouds Like Waves Rippling",
+                "c3": "The Moon, A Ship O'er the Seas",
+                "c4": "The Moon Overlooks the Waters",
+                "c5": "All Streams Flow to the Sea",
+                "c6": "Sango Isshin"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "The Shape of Water",
+                "eSkill": "Kurage's Oath",
+                "burst": "Nereid's Ascension",
+                "firstAsc": "Tamakushi Casket",
+                "secondAsc": "Song of Pearls",
+                "passive": "Princess of Watatsumi",
+                "extra": "Flawless Strategy"
+            }
+        },
+
+        {
+            "id" : 22,
+            "name" : "Nilou",
+            "image": "nilou.png",
+            "splashArt": "nilou-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "sumeru",
+                "version": "3.1",
+                "stat": "hp",
+                "talentBook": "praxis",
+                "boss": "perpetual caliber",
+                "specialty": "padisarah",
+                "weeklyBoss": "raiden",
+                "mob": "fungi"
+            },
+
+            "cons": {
+                "conName": "Lotos Somno",
+                "c1": "Dance of the Waning Moon",
+                "c2": "The Starry Skies Their Flowers Rain",
+                "c3": "Beguiling Shadowstep",
+                "c4": "Fricative Pulse",
+                "c5": "Twirling Light",
+                "c6": "Frostbreaker's Melody"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Dance of Samser",
+                "eSkill": "Dance of Haftkarsvar",
+                "burst": "Dance of Abzendegi: Distant Dreams, Listening Spring",
+                "firstAsc": "Court of Dancing Petals",
+                "secondAsc": "Dreamy Dance of Aeons",
+                "passive": "White Jade Lotus",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 23,
+            "name" : "Candace",
+            "image": "candace.png",
+            "splashArt": "candace-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "4⭐",
+                "weapon": "polearm",
+                "region": "sumeru",
+                "version": "3.1",
+                "stat": "hp",
+                "talentBook": "admonition",
+                "boss": "light guiding tetrahedron",
+                "specialty": "henna berry",
+                "weeklyBoss": "raiden",
+                "mob": "eremite"
+            },
+
+            "cons": {
+                "conName": "Sagitta Scutum",
+                "c1": "Returning Heiress of the Scarlet Sands",
+                "c2": "Moon-Piercing Brilliance",
+                "c3": "Hunter's Supplication",
+                "c4": "Sentinel Oath",
+                "c5": "Heterochromatic Gaze",
+                "c6": "The Overflow"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Gleaming Spear - Guardian Stance",
+                "eSkill": "Sacred Rite: Heron's Sanctum",
+                "burst": "Sacred Rite: Wagtail's Tide",
+                "firstAsc": "Aegis of Crossed Arrows",
+                "secondAsc": "Celestial Dome of Sand",
+                "passive": "To Dawn's First Light",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 24,
+            "name" : "Tartaglia",
+            "image": "tartaglia.png",
+            "splashArt": "tartaglia-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "snezhnaya",
+                "version": "1.1",
+                "stat": "hydro damage bonus",
+                "talentBook": "freedom",
+                "boss": "cleansing heart",
+                "specialty": "starconch",
+                "weeklyBoss": "childe",
+                "mob": "fatui"
+            },
+
+            "cons": {
+                "conName": "Monoceros Caeli",
+                "c1": "Foul Legacy: Tide Withholder",
+                "c2": "Foul Legacy: Understream",
+                "c3": "Abyssal Mayhem: Vortex of Turmoil",
+                "c4": "Abyssal Mayhem: Hydrospout",
+                "c5": "Havoc: Formless Blade",
+                "c6": "Havoc: Annihilation"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Cutting Torrent",
+                "eSkill": "Foul Legacy: Raging Tide",
+                "burst": "Havoc: Obliteration",
+                "firstAsc": "Never Ending",
+                "secondAsc": "Sword of Torrents",
+                "passive": "Master of Weaponry",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 25,
+            "name" : "Neuvilette",
+            "image": "neuvilette.png",
+            "splashArt": "neuvilette-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "fontaine",
+                "version": "4.1",
+                "stat": "crit damage",
+                "talentBook": "equity",
+                "boss": "fontemer unihorn",
+                "specialty": "lumitoile",
+                "weeklyBoss": "apep",
+                "mob": "fontemer aberrant"
+            },
+
+            "cons": {
+                "conName": "Leviathan Judicator",
+                "c1": "Venerable Institution",
+                "c2": "Juridical Exhortation",
+                "c3": "Ancient Postulation",
+                "c4": "Crown of Commiseration",
+                "c5": "Axiomatic Judgment",
+                "c6": "Wrathful Recompense"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "As Water Seeks Equilibrium",
+                "eSkill": "O Tears, I Shall Repay",
+                "burst": "O Tides, I Have Returned",
+                "firstAsc": "Heir to the Ancient Sea's Authority",
+                "secondAsc": "Discipline of the Supreme Arbitration",
+                "passive": "Gather Like the Tide",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 26,
+            "name" : "Kamisato Ayato",
+            "image": "ayato.png",
+            "splashArt": "ayato-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "inazuma",
+                "version": "2.6",
+                "stat": "crit damage",
+                "talentBook": "elegance",
+                "boss": "dew of repudiation",
+                "specialty": "sakura bloom",
+                "weeklyBoss": "raiden",
+                "mob": "nobushi"
+            },
+
+            "cons": {
+                "conName": "Cypressus Custos",
+                "c1": "Kyouka Fuushi",
+                "c2": "World Source",
+                "c3": "To Admire the Flowers",
+                "c4": "Endless Flow",
+                "c5": "Bansui Ichiro",
+                "c6": "Boundless Origin"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Kamisato Art: Marobashi",
+                "eSkill": "Kamisato Art: Kyouka",
+                "burst": "Kamisato Art: Suiyuu",
+                "firstAsc": "Kamisato Art: Mine Wo Matoishi Kiyotaki",
+                "secondAsc": "Kamisato Art: Michiyuku Hagetsu",
+                "passive": "Kamisato Art: Daily Cooking",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 27,
+            "name" : "Yelan",
+            "image": "yelan.png",
+            "splashArt": "yelan-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "liyue",
+                "version": "2.7",
+                "stat": "crit rate",
+                "talentBook": "prosperity",
+                "boss": "runic fang",
+                "specialty": "starconch",
+                "weeklyBoss": "azdaha",
+                "mob": "fatui"
+            },
+
+            "cons": {
+                "conName": "Umbrabilis Orchis",
+                "c1": "Enter the Plotters",
+                "c2": "Taking All Comers",
+                "c3": "Beware the Trickster's Dice",
+                "c4": "Bait-and-Switcht",
+                "c5": "Dealer's Sleight",
+                "c6": "Winner Takes All"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Stealthy Bowshot",
+                "eSkill": "Lingering Lifeline",
+                "burst": "Depth-Clarion Dice",
+                "firstAsc": "Turn Control",
+                "secondAsc": "Adapt With Ease",
+                "passive": "Necessary Calculation",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 28,
+            "name" : "Sigewinne",
+            "image": "sigewinne.png",
+            "splashArt": "sigewinne-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "fontaine",
+                "version": "4.7",
+                "stat": "hp",
+                "talentBook": "equity",
+                "boss": "water that failed to transcend",
+                "specialty": "romaritime flower",
+                "weeklyBoss": "narwhal",
+                "mob": "fontemer aberrant"
+            },
+
+            "cons": {
+                "conName": "Nereides",
+                "c1": "Can the Happiest of Spirits Understand Anxiety?",
+                "c2": "Can the Most Merciful of Spirits Defeat Its Foes?",
+                "c3": "Can the Healthiest of Spirits Cure Fevers?",
+                "c4": "Can the Loveliest of Spirits Keep Decay at Bay?",
+                "c5": "Can the Most Joyful of Spirits Alleviate Agony?",
+                "c6": "Can the Most Radiant of Spirits Pray For Me?"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Targeted Treatment",
+                "eSkill": "Rebound Hydrotherapy",
+                "burst": "Super Saturated Syringing",
+                "firstAsc": "Requires Appropriate Rest",
+                "secondAsc": "Detailed Diagnosis, Thorough Treatment",
+                "passive": "Emergency Dose",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 29,
+            "name" : "Furina",
+            "image": "furina.png",
+            "splashArt": "furina-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "fontaine",
+                "version": "4.2",
+                "stat": "crit rate",
+                "talentBook": "justice",
+                "boss": "water that failed to transcend",
+                "specialty": "lakelight lily",
+                "weeklyBoss": "narwhal",
+                "mob": "whopperflower"
+            },
+
+            "cons": {
+                "conName": "Animula Choragi",
+                "c1": "Love Is a Rebellious Bird That None Can Tame",
+                "c2": "A Woman Adapts Like Duckweed in Water",
+                "c3": "My Secret Is Hidden Within Me, No One Will Know My Name",
+                "c4": "They Know Not Life, Who Dwelt in the Netherworld Not!",
+                "c5": "His Name I Now Know, It Is...!",
+                "c6": "Hear Me — Let Us Raise the Chalice of Love!"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Soloist's Solicitation",
+                "eSkill": "Salon Solitaire",
+                "burst": "Let the People Rejoice",
+                "firstAsc": "Endless Waltz",
+                "secondAsc": "Unheard Confession",
+                "passive": "The Sea Is My Stage",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 30,
+            "name" : "Mualani",
+            "image": "mualani.png",
+            "splashArt": "mualani-wish.png",
+            "properties": {
+                "element": "hydro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "natlan",
+                "version": "5.0",
+                "stat": "crit rate",
+                "talentBook": "contention",
+                "boss": "mark of the binding blessing",
+                "specialty": "sprayfeather gill",
+                "weeklyBoss": "narwhal",
+                "mob": "saurian warrior"
+            },
+
+            "cons": {
+                "conName": "Phoca Neomonachus",
+                "c1": "The Leisurely 'Meztli'...",
+                "c2": "Mualani, Going All Out!",
+                "c3": "Surfing Atop Joyous Seas",
+                "c4": "Sharky Eats Puffies",
+                "c5": "Same Style of Surfboard on Sale!",
+                "c6": "Spirit of the Springs' People"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Cooling Treatment",
+                "eSkill": "Surfshark Wavebreaker",
+                "burst": "Boomsharka-laka",
+                "firstAsc": "Heat-Resistant Freshwater Floater",
+                "secondAsc": "Natlan's Greatest Guide",
+                "passive": "Crests and Troughs",
+                "extra": "The Trick Is to Keep Smiling!"
+            }
+        },
+
+        {
+            "id" : 31,
+            "name" : "Collei",
+            "image": "collei.png",
+            "splashArt": "collei-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "4⭐",
+                "weapon": "bow",
+                "region": "sumeru",
+                "version": "3.0",
+                "stat": "atk",
+                "talentBook": "praxis",
+                "boss": "majestic hooked beak",
+                "specialty": "rukkhashava mushroom",
+                "weeklyBoss": "raiden",
+                "mob": "hilichurl shooter"
+            },
+
+            "cons": {
+                "conName": "Leptailurus Cervarius",
+                "c1": "Deepwood Patrol",
+                "c2": "Through Hill and Copse",
+                "c3": "Scent of Summer",
+                "c4": "Gift of the Woods",
+                "c5": "All Embers",
+                "c6": "Forest of Falling Arrows"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Supplicant's Bowmanship",
+                "eSkill": "Floral Brush",
+                "burst": "Trump-Card Kitty",
+                "firstAsc": "Floral Sidewinder",
+                "secondAsc": "The Languid Wood",
+                "passive": "Gliding Champion of Sumeru",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 32,
+            "name" : "Alhaitham",
+            "image": "alhaitham.png",
+            "splashArt": "alhaitham-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "sumeru",
+                "version": "3.4",
+                "stat": "dendro damage bonus",
+                "talentBook": "ingenuity",
+                "boss": "pseudo-stamens",
+                "specialty": "sand grease pupa",
+                "weeklyBoss": "scaramouche",
+                "mob": "eremite"
+            },
+
+            "cons": {
+                "conName": "Vultur Volans",
+                "c1": "Intuition",
+                "c2": "Debate",
+                "c3": "Negation",
+                "c4": "Elucidation",
+                "c5": "Sagacity",
+                "c6": "Structuration"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Abductive Reasoning",
+                "eSkill": "Universality: An Elaboration on Form",
+                "burst": "Particular Field: Fetters of Phenomena",
+                "firstAsc": "Four-Causal Correction",
+                "secondAsc": "Mysteries Laid Bare",
+                "passive": "Law of Reductive Overdetermination",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 33,
+            "name" : "Emilie",
+            "image": "emilie.png",
+            "splashArt": "emilie-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "5⭐",
+                "weapon": "polearm",
+                "region": "fontaine",
+                "version": "4.8",
+                "stat": "crit damage",
+                "talentBook": "order",
+                "boss": "fragment of a golden melody",
+                "specialty": "lakelight lily",
+                "weeklyBoss": "peruere",
+                "mob": "meka"
+            },
+
+            "cons": {
+                "conName": "Pomum de Ambra",
+                "c1": "Light Fragrance Leaching",
+                "c2": "Lakelight Top Note",
+                "c3": "Exquisite Essence",
+                "c4": "Lumidouce Heart Note",
+                "c5": "Puredew Aroma",
+                "c6": "Marcotte Sillage"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Shadow-Hunting Spear",
+                "eSkill": "Fragrance Extraction",
+                "burst": "Aromatic Explication",
+                "firstAsc": "Lingering Fragrance",
+                "secondAsc": "Rectification",
+                "passive": "Headspace Capture",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 34,
+            "name" : "Kirara",
+            "image": "kirara.png",
+            "splashArt": "kirara-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "4⭐",
+                "weapon": "sword",
+                "region": "inazuma",
+                "version": "3.7",
+                "stat": "hp",
+                "talentBook": "transcience",
+                "boss": "evergloom ring",
+                "specialty": "amakumo fruit",
+                "weeklyBoss": "apep",
+                "mob": "specter"
+            },
+
+            "cons": {
+                "conName": "Arcella",
+                "c1": "Material Circulation",
+                "c2": "Perfectly Packaged",
+                "c3": "Universal Recognition",
+                "c4": "Steed of Skanda",
+                "c5": "A Thousand Miles in a Day",
+                "c6": "Countless Sights to See"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Boxcutter",
+                "eSkill": "Meow-teor Kick",
+                "burst": "Secret Art: Surprise Dispatch",
+                "firstAsc": "Bewitching, Betwitching Tails",
+                "secondAsc": "Pupillary Variance",
+                "passive": "Cat's Creeping Carriage",
+                "extra": null
+            }
+        }
     ]
 }
