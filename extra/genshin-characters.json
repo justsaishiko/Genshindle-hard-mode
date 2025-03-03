@@ -1448,6 +1448,469 @@
                 "passive": "Cat's Creeping Carriage",
                 "extra": null
             }
-        }
+        },
+
+        {
+            "id" : 35,
+            "name" : "Kaveh",
+            "image": "kaveh.png",
+            "splashArt": "kaveh-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "sumeru",
+                "version": "3.6",
+                "stat": "elemental mastery",
+                "talentBook": "ingenuity",
+                "boss": "quelled creeper",
+                "specialty": "mourning flower",
+                "weeklyBoss": "apep",
+                "mob": "fungi"
+            },
+
+            "cons": {
+                "conName": "Paradisaea",
+                "c1": "Sublime Salutations",
+                "c2": "Grace of Royal Roads",
+                "c3": "Profferings of Dur Untash",
+                "c4": "Feast of Apadana",
+                "c5": "Treasures of Bonkhanak",
+                "c6": "Pairidaeza's Dreams"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Schematic Setup",
+                "eSkill": "Artistic Ingenuity",
+                "burst": "Painted Dome",
+                "firstAsc": "An Architect's Undertaking",
+                "secondAsc": "A Craftsman's Curious Conceptions",
+                "passive": "The Art of Budgeting",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 36,
+            "name" : "Kinich",
+            "image": "kinich.png",
+            "splashArt": "kinich-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "5⭐",
+                "weapon": "claymore",
+                "region": "natlan",
+                "version": "5.0",
+                "stat": "crit damage",
+                "talentBook": "kindling",
+                "boss": "overripe flamegranate",
+                "specialty": "saurian claw succulent",
+                "weeklyBoss": "peruere",
+                "mob": "saurians"
+            },
+
+            "cons": {
+                "conName": "Chimaera Alebriius",
+                "c1": "Parrot's Beak",
+                "c2": "Tiger Beetle's Palm",
+                "c3": "Protosuchian's Claw",
+                "c4": "Hummingbird's Feather",
+                "c5": "Howler Monkey's Tail",
+                "c6": "Auspicious Beast's Shape"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Nightsun Style",
+                "eSkill": "Canopy Hunter: Riding High",
+                "burst": "Hail to the Almighty Dragonlord",
+                "firstAsc": "The Price of Desolation",
+                "secondAsc": "Flame Spirit Pact",
+                "passive": "Swift Envoy",
+                "extra": "Repaid in Full"
+            }
+        },
+
+        {
+            "id" : 37,
+            "name" : "Baizhu",
+            "image": "baizhu.png",
+            "splashArt": "baizhu-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "liyue",
+                "version": "3.6",
+                "stat": "hp",
+                "talentBook": "gold",
+                "boss": "evergloom ring",
+                "specialty": "violetgrass",
+                "weeklyBoss": "apep",
+                "mob": "fungi"
+            },
+
+            "cons": {
+                "conName": "Lagenaria",
+                "c1": "Attentive Observation",
+                "c2": "Incisive Discernment",
+                "c3": "All Aspects Stabilized",
+                "c4": "Ancient Art of Perception",
+                "c5": "The Hidden Ebb and Flow",
+                "c6": "Elimination of Malicious Qi"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "The Classics of Acupuncture",
+                "eSkill": "Universal Diagnosis",
+                "burst": "Holistic Revivification",
+                "firstAsc": "Five Fortunes Forever",
+                "secondAsc": "All Things Are of the Earth",
+                "passive": "Herbal Nourishment",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 38,
+            "name" : "Nahida",
+            "image": "nahida.png",
+            "splashArt": "nahida-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "5⭐",
+                "weapon": "catalyst",
+                "region": "sumeru",
+                "version": "3.2",
+                "stat": "elemental mastery",
+                "talentBook": "ingenuity",
+                "boss": "quelled creeper",
+                "specialty": "kalpala lotus",
+                "weeklyBoss": "scaramouche",
+                "mob": "fungi"
+            },
+
+            "cons": {
+                "conName": "Sapientia Oromasdis",
+                "c1": "The Seed of Stored Knowledge",
+                "c2": "The Root of All Fullness",
+                "c3": "The Shoot of Conscious Attainment",
+                "c4": "The Stem of Manifest Inference",
+                "c5": "The Leaves of Enlightening Speech",
+                "c6": "The Fruit of Reason's Culmination"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Akara",
+                "eSkill": "All Schemes to Know",
+                "burst": "Illusory Heart",
+                "firstAsc": "Compassion Illuminated",
+                "secondAsc": "Awakening Elucidated",
+                "passive": "On All Things Meditated",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 39,
+            "name" : "Yaoyao",
+            "image": "yaoyao.png",
+            "splashArt": "yaoyao-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "4⭐",
+                "weapon": "polearm",
+                "region": "liyue",
+                "version": "3.4",
+                "stat": "hp",
+                "talentBook": "dilligence",
+                "boss": "quelled creeper",
+                "specialty": "jueyun chili",
+                "weeklyBoss": "scaramouche",
+                "mob": "slime"
+            },
+
+            "cons": {
+                "conName": "Osmanthus",
+                "c1": "Adeptus' Tutelage",
+                "c2": "Innocent",
+                "c3": "Loyal and Kind",
+                "c4": "Winsome",
+                "c5": "Compassionate",
+                "c6": "Beneficent"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Toss 'N' Turn Spear",
+                "eSkill": "Raphanus Sky Cluster",
+                "burst": "Moonjade Descent",
+                "firstAsc": "Starscatter",
+                "secondAsc": "In Others' Shoes",
+                "passive": "Tailing on Tiptoes",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 40,
+            "name" : "Tighnari",
+            "image": "tighnari.png",
+            "splashArt": "tighnari-wish.png",
+            "properties": {
+                "element": "dendro",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "sumeru",
+                "version": "3.0",
+                "stat": "dendro damage bonus",
+                "talentBook": "admonition",
+                "boss": "majestic hooked beak",
+                "specialty": "nilotpala lotus",
+                "weeklyBoss": "raiden",
+                "mob": "fungi"
+            },
+
+            "cons": {
+                "conName": "Vulpes Zerda",
+                "c1": "Beginnings Determined at the Roots",
+                "c2": "Origins Known From the Stem",
+                "c3": "Fortunes Read Amongst the Branches",
+                "c4": "Withering Glimpsed in the Leaves",
+                "c5": "Comprehension Amidst the Flowers",
+                "c6": "Karma Adjudged From the Leaden Fruit"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Khanda Barrier-Buster",
+                "eSkill": "Vijnana-Phala Mine",
+                "burst": "Fashioner's Tanglevine Shaft",
+                "firstAsc": "Keen Sight",
+                "secondAsc": "Scholarly Blade",
+                "passive": "Encyclopedic Knowledge",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 41,
+            "name" : "Thoma",
+            "image": "thoma.png",
+            "splashArt": "thoma-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "polearm",
+                "region": "inazuma",
+                "version": "2.2",
+                "stat": "atk",
+                "talentBook": "transcience",
+                "boss": "smoldering pearl",
+                "specialty": "fluorescent fungus",
+                "weeklyBoss": "signora",
+                "mob": "treasure hoarders"
+            },
+
+            "cons": {
+                "conName": "Rubeum Scutum",
+                "c1": "A Comrade's Duty",
+                "c2": "A Subordinate's Skills",
+                "c3": "Fortified Resolve",
+                "c4": "Long-Term Planning",
+                "c5": "Raging Wildfire",
+                "c6": "Burning Heart"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Swiftshatter Spear",
+                "eSkill": "Blazing Blessing",
+                "burst": "Crimson Ooyoroi",
+                "firstAsc": "Imbricated Armor",
+                "secondAsc": "Flaming Assault",
+                "passive": "Snap and Swing",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 42,
+            "name" : "Xinyan",
+            "image": "xinyan.png",
+            "splashArt": "xinyan-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "liyue",
+                "version": "1.1",
+                "stat": "atk",
+                "talentBook": "gold",
+                "boss": "everflame seed",
+                "specialty": "violetgrass",
+                "weeklyBoss": "childe",
+                "mob": "treasure hoarders"
+            },
+
+            "cons": {
+                "conName": "Fila Ignium",
+                "c1": "Fatal Acceleration",
+                "c2": "Impromptu Opening",
+                "c3": "Double-Stop",
+                "c4": "Wildfire Rhythm",
+                "c5": "Screamin' for an Encore",
+                "c6": "Rockin' in a Flaming World"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Dance on Fire",
+                "eSkill": "Sweeping Fervor",
+                "burst": "Riff Revolution",
+                "firstAsc": "The Show Goes On, Even Without An Audience...",
+                "secondAsc": "...Now That's Rock 'N' Roll!",
+                "passive": "A Rad Recipe",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 43,
+            "name" : "Hu Tao",
+            "image": "hutao.png",
+            "splashArt": "hutao-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "polearm",
+                "region": "liyue",
+                "version": "1.3",
+                "stat": "crit damage",
+                "talentBook": "dilligence",
+                "boss": "juvenile jade",
+                "specialty": "silk flower",
+                "weeklyBoss": "childe",
+                "mob": "whopperflower"
+            },
+
+            "cons": {
+                "conName": "Papillo Charontis",
+                "c1": "Crimson Bouquet",
+                "c2": "Ominous Rainfall",
+                "c3": "Lingering Carmine",
+                "c4": "Garden of Eternal Rest",
+                "c5": "Floral Incense",
+                "c6": "Butterfly's Embrace"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Secret Spear of Wangsheng",
+                "eSkill": "Guide to Afterlife",
+                "burst": "Spirit Soother",
+                "firstAsc": "Flutter By",
+                "secondAsc": "Sanguine Rouge",
+                "passive": "The More the Merrier",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 44,
+            "name" : "Gaming",
+            "image": "gaming.png",
+            "splashArt": "gaming-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "claymore",
+                "region": "liyue",
+                "version": "4.4",
+                "stat": "atk",
+                "talentBook": "prosperity",
+                "boss": "emperor's resolution",
+                "specialty": "starconch",
+                "weeklyBoss": "narwhal",
+                "mob": "slime"
+            },
+
+            "cons": {
+                "conName": "Leo Expergiscens",
+                "c1": "Bringer of Blessing",
+                "c2": "Plum Blossoms Underfoot",
+                "c3": "Awakening Spirit",
+                "c4": "Soar Across Mountains",
+                "c5": "Evil-Daunting Roar",
+                "c6": "To Tame All Beasts"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Stellar Rend",
+                "eSkill": "Bestial Ascent",
+                "burst": "Suanni's Gilded Dance",
+                "firstAsc": "Dance of Amity",
+                "secondAsc": "Air of Prosperity",
+                "passive": "The Striding Beast",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 45,
+            "name" : "Yanfei",
+            "image": "yanfei.png",
+            "splashArt": "yanfei-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "catalyst",
+                "region": "liyue",
+                "version": "1.5",
+                "stat": "pyro damage bonus",
+                "talentBook": "gold",
+                "boss": "juvenile jade",
+                "specialty": "noctilucous jade",
+                "weeklyBoss": "azdaha",
+                "mob": "treasure hoarders"
+            },
+
+            "cons": {
+                "conName": "Bestia Iustitia",
+                "c1": "The Law Knows No Kindness",
+                "c2": "Right of Final Interpretation",
+                "c3": "Samadhi Fire-Forged",
+                "c4": "Supreme Amnesty",
+                "c5": "Abiding Affidavit",
+                "c6": "Extra Clause"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Seal of Approval",
+                "eSkill": "Signed Edict",
+                "burst": "Done Deal",
+                "firstAsc": "Proviso",
+                "secondAsc": "Blazing Eye",
+                "passive": "Encyclopedic Expertise",
+                "extra": null
+            }
+        },
+
     ]
 }
