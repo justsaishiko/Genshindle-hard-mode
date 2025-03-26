@@ -1912,5 +1912,426 @@
             }
         },
 
+        {
+            "id" : 46,
+            "name" : "Naganohara Yoimiya",
+            "image": "yoimiya.png",
+            "splashArt": "yoimiya-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "inazuma",
+                "version": "2.0",
+                "stat": "crit rate",
+                "talentBook": "transcience",
+                "boss": "smoldering pearl",
+                "specialty": "naku weed",
+                "weeklyBoss": "azdaha",
+                "mob": "samachurl"
+            },
+
+            "cons": {
+                "conName": "Carassius Auratus",
+                "c1": "Agate Ryuukin",
+                "c2": "A Procession of Bonfires",
+                "c3": "Trickster's Flare",
+                "c4": "Pyrotechnic Professional",
+                "c5": "A Summer Festival's Eve",
+                "c6": "Naganohara Meteor Swarm"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Firework Flare-Up",
+                "eSkill": "Niwabi Fire-Dance",
+                "burst": "Ryuukin Saxifrage",
+                "firstAsc": "Tricks of the Trouble-Maker",
+                "secondAsc": "Summer Night's Dawn",
+                "passive": "Blazing Match",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 47,
+            "name" : "Dehya",
+            "image": "dehya.png",
+            "splashArt": "dehya-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "claymore",
+                "region": "sumeru",
+                "version": "3.5",
+                "stat": "hp",
+                "talentBook": "praxis",
+                "boss": "light guiding tetrahedron",
+                "specialty": "sand grease pupa",
+                "weeklyBoss": "scaramouche",
+                "mob": "eremite"
+            },
+
+            "cons": {
+                "conName": "Mantichora",
+                "c1": "The Flame Incandescent",
+                "c2": "The Sand-Blades Glittering",
+                "c3": "A Rage Swift as Fire",
+                "c4": "An Oath Abiding",
+                "c5": "The Alpha Unleashed",
+                "c6": "The Burning Claws Cleaving"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Sandstorm Assault",
+                "eSkill": "Molten Inferno",
+                "burst": "Leonine Bite",
+                "firstAsc": "Unstinting Succor",
+                "secondAsc": "Stalwart and True",
+                "passive": "The Sunlit Way",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 48,
+            "name" : "Chevreuse",
+            "image": "chevreuse.png",
+            "splashArt": "chevreuse-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "4⭐",
+                "weapon": "polearm",
+                "region": "fontaine",
+                "version": "4.3",
+                "stat": "hp",
+                "talentBook": "order",
+                "boss": "fontemer unihorn",
+                "specialty": "lumidouce bell",
+                "weeklyBoss": "narwhal",
+                "mob": "meka"
+            },
+
+            "cons": {
+                "conName": "Sclopetum Ensiferum",
+                "c1": "Stable Front Line's Resolve",
+                "c2": "Sniper Induced Explosion",
+                "c3": "Practiced Field Stripping Technique",
+                "c4": "The Secret to Rapid-Fire Multishots",
+                "c5": "Enhanced Incendiary Firepower",
+                "c6": "In Pursuit of Ending Evil"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Line Bayonet Thrust EX",
+                "eSkill": "Short-Range Rapid Interdiction Fire",
+                "burst": "Ring of Bursting Grenades",
+                "firstAsc": "Vanguard's Coordinated Tactics",
+                "secondAsc": "Vertical Force Coordination",
+                "passive": "Double Time March",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 49,
+            "name" : "Lyney Sneznevich",
+            "image": "lyney.png",
+            "splashArt": "lyney-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "bow",
+                "region": "fontaine",
+                "version": "4.0",
+                "stat": "crit rate",
+                "talentBook": "equity",
+                "boss": "emperor's resolution",
+                "specialty": "rainbow rose",
+                "weeklyBoss": "apep",
+                "mob": "fatui"
+            },
+
+            "cons": {
+                "conName": "Felis Fuscus",
+                "c1": "Whimsical Wonders",
+                "c2": "Loquacious Cajoling",
+                "c3": "Prestidigitation",
+                "c4": "Well-Versed, Well-Rehearsed",
+                "c5": "To Pierce Enigmas",
+                "c6": "Guarded Smile"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Card Force Translocation",
+                "eSkill": "Bewildering Lights",
+                "burst": "Wondrous Trick: Miracle Parade",
+                "firstAsc": "Perilous Performance",
+                "secondAsc": "Conclusive Ovation",
+                "passive": "Trivial Observations",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 50,
+            "name" : "Arlecchino",
+            "image": "arlecchino.png",
+            "splashArt": "arlecchino-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "polearm",
+                "region": "fontaine",
+                "version": "4.6",
+                "stat": "crit damage",
+                "talentBook": "order",
+                "boss": "fragment of a golden melody",
+                "specialty": "rainbow rose",
+                "weeklyBoss": "peruere",
+                "mob": "fatui"
+            },
+
+            "cons": {
+                "conName": "Ignis Purgatorius",
+                "c1": "All Reprisals and Arrears, Mine to Bear...",
+                "c2": "All Rewards and Retribution, Mine to Bestow...",
+                "c3": "You Shall Become a New Member of Our Family...",
+                "c4": "You Shall Love and Protect Each Other Henceforth...",
+                "c5": "For Alone, We Are as Good as Dead...",
+                "c6": "From This Day On, We Shall Delight in New Life Together."
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Invitation to a Beheading",
+                "eSkill": "All Is Ash",
+                "burst": "Balemoon Rising",
+                "firstAsc": "Agony Alone May Be Repaid",
+                "secondAsc": "Strength Alone Can Defend",
+                "passive": "The Balemoon Alone May Know",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 51,
+            "name" : "Mavuika",
+            "image": "mavuika.png",
+            "splashArt": "mavuika-wish.png",
+            "properties": {
+                "element": "pyro",
+                "rarity": "5⭐",
+                "weapon": "claymore",
+                "region": "natlan",
+                "version": "5.3",
+                "stat": "crit damage",
+                "talentBook": "contention",
+                "boss": "gold inscribed secret source core",
+                "specialty": "withering purpurbloom",
+                "weeklyBoss": "eroded fire",
+                "mob": "saurian warrior"
+            },
+
+            "cons": {
+                "conName": "Sol Invictus",
+                "c1": "The Night-Lord's Explication",
+                "c2": "The Ashen Price",
+                "c3": "The Burning Sun",
+                "c4": "The Leader's Resolve",
+                "c5": "The Meaning of Truth",
+                "c6": "'Humanity's Name' Unfettered"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Flames Weave Life",
+                "eSkill": "The Named Moment",
+                "burst": "Hour of Burning Skies",
+                "firstAsc": "Gift of Flaming Flowers",
+                "secondAsc": "Kiongozi",
+                "passive": "Exhaust ModeThe Balemoon Alone May Know",
+                "extra": "Night-Shattering Radiance"
+            }
+        },
+
+        {
+            "id" : 52,
+            "name" : "Albedo Kreideprinz",
+            "image": "albedo.png",
+            "splashArt": "mavuika-wish.png",
+            "properties": {
+                "element": "geo",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "mondstadt",
+                "version": "1.2",
+                "stat": "geo damage bonus",
+                "talentBook": "ballad",
+                "boss": "basalt pillar",
+                "specialty": "cecilia",
+                "weeklyBoss": "childe",
+                "mob": "samachurl"
+            },
+
+            "cons": {
+                "conName": "Princeps Cretaceus",
+                "c1": "Flower of Eden",
+                "c2": "Opening of Phanerozoic",
+                "c3": "Grace of Helios",
+                "c4": "Descent of Divinity",
+                "c5": "Tide of Hadean",
+                "c6": "Dust of Purification"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Favonius Bladework - Weiss",
+                "eSkill": "Abiogenesis: Solar Isotoma",
+                "burst": "Rite of Progeniture: Tectonic Tide",
+                "firstAsc": "Calcite Might",
+                "secondAsc": "Homuncular Nature",
+                "passive": "Flash of Genius",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 53,
+            "name" : "Chiori",
+            "image": "chiori.png",
+            "splashArt": "chiori-wish.png",
+            "properties": {
+                "element": "geo",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "inazuma",
+                "version": "4.5",
+                "stat": "crit rate",
+                "talentBook": "light",
+                "boss": "coppelia",
+                "specialty": "dendrobium",
+                "weeklyBoss": "narwhal",
+                "mob": "specter"
+            },
+
+            "cons": {
+                "conName": "Cisoria",
+                "c1": "Six Paths of Sage Silkcraft",
+                "c2": "In Five Colors Dyed",
+                "c3": "Four Brocade Embellishments",
+                "c4": "A Tailor's Three Courtesies",
+                "c5": "Two Silken Plumules",
+                "c6": "Sole Principle Pursuit"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Weaving Blade",
+                "eSkill": "Fluttering Hasode",
+                "burst": "Hiyoku: Twin Blades",
+                "firstAsc": "Tailor-Made",
+                "secondAsc": "The Finishing Touch",
+                "passive": "Brocaded Collar's Beauteous Silhouette",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 54,
+            "name" : "Arataki Itto",
+            "image": "itto.png",
+            "splashArt": "itto-wish.png",
+            "properties": {
+                "element": "geo",
+                "rarity": "5⭐",
+                "weapon": "claymore",
+                "region": "inazuma",
+                "version": "2.3",
+                "stat": "crit rate",
+                "talentBook": "elegance",
+                "boss": "riftborn regalia",
+                "specialty": "onikabuto",
+                "weeklyBoss": "signora",
+                "mob": "slime"
+            },
+
+            "cons": {
+                "conName": "Taurus Iracundus",
+                "c1": "Stay a While and Listen Up",
+                "c2": "Gather 'Round, It's a Brawl!",
+                "c3": "Horns Lowered, Coming Through",
+                "c4": "Jailhouse Bread and Butter",
+                "c5": "10 Years of Hanamizaka Fame",
+                "c6": "Arataki Itto, Present!"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Fight Club Legend",
+                "eSkill": "Masatsu Zetsugi: Akaushi Burst!",
+                "burst": "Royal Descent: Behold, Itto the Evil!",
+                "firstAsc": "Arataki Ichiban",
+                "secondAsc": "Bloodline of the Crimson Oni",
+                "passive": "Woodchuck Chucked",
+                "extra": null
+            }
+        },
+
+        {
+            "id" : 55,
+            "name" : "Xilonen",
+            "image": "xilonen.png",
+            "splashArt": "itto-wish.png",
+            "properties": {
+                "element": "geo",
+                "rarity": "5⭐",
+                "weapon": "sword",
+                "region": "natlan",
+                "version": "2.3",
+                "stat": "def",
+                "talentBook": "kindling",
+                "boss": "gold inscribed secret source core",
+                "specialty": "brilliant chrysanthemum",
+                "weeklyBoss": "scaramouche",
+                "mob": "saurian warrior"
+            },
+
+            "cons": {
+                "conName": "Panthera Ocelota",
+                "c1": "Sabbatical Phrase",
+                "c2": "Chiucue Mix",
+                "c3": "Tonalpohualli's Loop",
+                "c4": "Suchitl's Trance",
+                "c5": "Tlaltecuhtli's Crossfade",
+                "c6": "Imperishable Night Carnival"
+            },
+
+            "colors": ["na razie neh"],
+
+            "talents": {
+                "NA": "Ehecatl's Roar",
+                "eSkill": "Yohual's Scratch",
+                "burst": "Ocelotlicue Point!",
+                "firstAsc": "Netotiliztli's Echoes",
+                "secondAsc": "Portable Armored Sheath",
+                "passive": "Tour of Tepeilhuitl",
+                "extra": "Blessing of Forge-Fire"
+            }
+        },
+
+
     ]
 }
