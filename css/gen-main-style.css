@@ -7,6 +7,12 @@ body{
     display: flex;
     flex-direction: row;
 }
+.quicksand-font {
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
 .navbar{
     width:10vw;
     height: 100vh;
@@ -25,14 +31,9 @@ body{
     border: 3px solid rebeccapurple;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: right;
     flex-direction: row;
-}
-.normalNav, .consNav, .talentsNav, .weaponsNav, .colorNav{
-    width: 20%;
-    height: 100%;
-    outline: 3px solid red;
-    
+    background-color: rgb(41, 41, 41);
 }
 .normalMode{
     width:100%;
@@ -53,4 +54,17 @@ body{
     height: 20%;
     border: 5px solid chartreuse;
     margin-top: 20px;
+}
+.navi{
+    width: 15%;
+    height: 100%;
+    background-color: #ff998a;
+    border: 8px #e78171 outset;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.navi:hover{
+    border: 8px #e78171 inset;
 }
